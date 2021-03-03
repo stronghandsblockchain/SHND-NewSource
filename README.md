@@ -16,8 +16,8 @@ With much love and respect to Peercoin.
 
 ### Stronghands Resources
 * Client and Source:
-[Client Binaries](https://bitbucket.org/bumbacoin/stronghands-new/downloads/),
-[Source Code](https://bitbucket.org/bumbacoin/stronghands-new)
+[Client Binaries](https://github.com/stronghands-official/SHND-source/releases/tag/v07301),
+[Source Code](https://github.com/stronghands-official/SHND-source)
 * Help: 
 [Discord chat](https://discord.gg/cPexkPB),
 
