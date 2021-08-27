@@ -11,8 +11,8 @@ UNIX BUILD NOTES FOR PEERCOIN
 To build in Terminal on Debian based Linux
 ---------------------
 
-	git clone https://github.com/stronghands/stronghands
-	cd stronghands
+	git clone https://github.com/stronghands-official/SHND-source
+	cd SHND-source
 	git checkout v0.7.3ppc
 	./contrib/vagrant/install.sh
 
