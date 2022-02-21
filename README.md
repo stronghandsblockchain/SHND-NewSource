@@ -1,5 +1,5 @@
 
-StrongHands Official Development Repo
+StrongHands Official Development Repository
 ==================================
 
 ### What is Stronghands?
