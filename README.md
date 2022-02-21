@@ -27,6 +27,6 @@ With much love and respect to Peercoin.
 [Last release](https://github.com/stronghandsblockchain/SHND-NewSource/releases/tag/v07301)
 
 * Bootstrap
-* [Last version](https://github.com/stronghandsblockchain/Bootstraps)
+[Last version](https://github.com/stronghandsblockchain/Bootstraps)
 
 
