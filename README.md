@@ -26,6 +26,7 @@ With much love and respect to Peercoin.
 * Qt Wallets
 [Last release](https://github.com/stronghandsblockchain/SHND-NewSource/releases/tag/v07301)
 
-[Bootstrap](https://github.com/stronghandsblockchain/Bootstraps)
+* Bootstrap
+* [Last version](https://github.com/stronghandsblockchain/Bootstraps)
 
 
