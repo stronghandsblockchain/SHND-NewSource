@@ -23,5 +23,9 @@ With much love and respect to Peercoin.
 * Help: 
 [Discord chat](https://discord.gg/cPexkPB),
 
+* Qt Wallets
+[Last release](https://github.com/stronghandsblockchain/SHND-NewSource/releases/tag/v07301)
+
+[Bootstrap](https://github.com/stronghandsblockchain/Bootstraps)
 
 
