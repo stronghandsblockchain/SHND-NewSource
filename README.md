@@ -1,6 +1,7 @@
 
 StrongHands Coin (SHND) Official Development Repository
 ==================================
+![In Development](http://img.shields.io/static/v1?label=STATUS&message=UNDER%20REVISION&color=RED&style=for-the-badge)
 
 ## What is StrongHands?
 [StrongHands](https://stronghands.info) (abbreviated SHND) is a [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) openly forked  using [proof-of-stake consensus](https://peercoin.net/resources.html#whitepaper) as a security model, with a combined [proof-of-stake](https://peercoin.net/resources.html#whitepaper)/[proof-of-work](https://en.wikipedia.org/wiki/Proof-of-work_system) minting system. Stronghands is based on [Peercoin](https://peercoin.net) which  is based on [Bitcoin](https://bitcoin.org), while incorporating many important innovations to cryptocurrency field including new security model, energy efficiency, better minting model and more adaptive response to rapid change in network computation power.
