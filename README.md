@@ -1,32 +1,59 @@
 
-StrongHands Official Development Repository
+StrongHands Coin (SHND) Official Development Repository
 ==================================
 
-### What is Stronghands?
+## What is StrongHands?
 [StrongHands](https://stronghands.info) (abbreviated SHND) is a [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) openly forked  using [proof-of-stake consensus](https://peercoin.net/resources.html#whitepaper) as a security model, with a combined [proof-of-stake](https://peercoin.net/resources.html#whitepaper)/[proof-of-work](https://en.wikipedia.org/wiki/Proof-of-work_system) minting system. Stronghands is based on [Peercoin](https://peercoin.net) which  is based on [Bitcoin](https://bitcoin.org), while incorporating many important innovations to cryptocurrency field including new security model, energy efficiency, better minting model and more adaptive response to rapid change in network computation power.
 
-Stronghands was originally released in 2015, it's initial POS return model of 100% /month resulted in incredible coin supply over time.
-* In 2018 it was modified to adjust returns to reduce issuance.
-* In 2019 it was moved to this new chain with a new reduced supply, and new return model.
-* In 2021 it was updated with new logo.
+#### StrongHands (SHND) was originally [released in 2015](https://bitcointalk.org/index.php?topic=1195510.0), its initial POS return model of 100% /month resulted in incredible coin supply over time.
 
+#### Here is a short story
+
+* In 2017 a community decided by a takeover and end the hyperstaking configuration, check [Bitcointalk Announcement](https://bitcointalk.org/index.php?topic=2709780)
+* In 2018 it was modified to adjust returns to reduce issuance through a hard fork
+* In 2019 it was moved to this new chain with a new reduced supply, and new return model.
 
 
 With much love and respect to Peercoin.
 
-### StrongHands Resources
+### StrongHands Resources and Specifications
 
-* Client and Source:
-[Client Binaries](https://github.com/stronghandsblockhain/SHND-source/releases/tag/v07301),
-[Source Code](https://github.com/stronghandsblockhain/SHND-Newsource)
+ 
+ <img align="left" width="18" height="18" src="https://raw.githubusercontent.com/stronghands-official/assets/main/shmn-logo-100x100.svg"> *Coin Specs* | &nbsp; 
+------------ | -------------
+ Name | StrongHands
+ Ticker | SHND
+ PoW Algo | SHA256
+ Reward System | POW and PoS
+ PoS Minimum Stake Age | 30 days
+ PoS Reward | 2,540/block
+ Blocktime | 2.5 minutes
+ Total Supply | 29,000,000,000 SHND
+ Port | 6901
+ RPC | 6902
+ P2P Port | 29001 
+ Speed up sync | [Official Bootstrap](https://github.com/stronghandsblockchain/Bootstraps)
+ Qt Wallets | [Latest release](https://github.com/stronghandsblockchain/SHND-NewSource/releases/tag/v07301)
 
-* Help: 
-[Discord chat](https://discord.gg/cPexkPB),
+ 
+Client and Source:
+* [Client Binaries](https://github.com/stronghandsblockhain/SHND-source/releases/tag/v07301),
+* [Latest Source Code](https://github.com/stronghandsblockhain/SHND-Newsource)
+* [Coin Explorer](https://www.coinexplorer.net/SHND)
 
-* Qt Wallets
-[Last release](https://github.com/stronghandsblockchain/SHND-NewSource/releases/tag/v07301)
+Help and Assistance: 
+* [Discord](https://discord.gg/cPexkPB) 
+* [Telegram](https://t.me/SHNDsupport)
 
-* Bootstrap
-[Last version](https://github.com/stronghandsblockchain/Bootstraps)
+Visit and join the Communities:
+* [Discord](https://discord.gg/gb8QWDx)
+* [Telegram](https://t.me/StrongHands) 
+* [Official Announcement Channel](https://t.me/stronghandsofficial)
+
+Where to compare prices and exchanges
+* [Coinmarketcap](https://coinmarketcap.com/currencies/stronghands/)
+* [Coingecko](https://www.coingecko.com/en/coins/stronghands#markets) 
+
+
 
 
