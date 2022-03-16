@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="200" height="200" src="https://github.com/stronghandsblockchain/Logos/blob/main/SHND/svg/SHND%20-%201.svg">
+
+
 
 StrongHands Coin (SHND) Official Development Repository
 ==================================
@@ -20,7 +24,7 @@ With much love and respect to Peercoin.
 ### StrongHands Resources and Specifications
 
  
- <img align="left" width="18" height="18" src="https://raw.githubusercontent.com/stronghands-official/assets/main/shmn-logo-100x100.svg"> *Coin Specs* | &nbsp; 
+ <img align="left" width="18" height="18" src="https://github.com/stronghandsblockchain/Logos/blob/main/SHND/icon/SHND%20icon_32x32.png"> *Coin Specs* | &nbsp; 
 ------------ | -------------
  Name | StrongHands
  Ticker | SHND
