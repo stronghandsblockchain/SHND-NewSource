@@ -42,7 +42,7 @@ With much love and respect to Peercoin.
  ### Downloads
   
   
- <img align="left" width="18" height="18" src="https://github.com/stronghandsblockchain/Logos/blob/main/SHND/icon/SHND%20icon_32x32.png"> *GUI WAllets* | v07301&nbsp;
+ <img align="left" width="18" height="18" src="https://github.com/stronghandsblockchain/Logos/blob/main/SHND/icon/SHND%20icon_32x32.png"> *GUI Wallets* | v07301&nbsp;
  ------------ | -------------
  Win64 | [Download](https://github.com/stronghandsblockchain/SHND-NewSource/releases/download/v07301/Windows64-stronghands-qt-v07301.zip)
  MacOs | [Download](https://github.com/stronghandsblockchain/SHND-NewSource/releases/download/v07301/MacOS-Stronghands-Qt-v07301.dmg)
