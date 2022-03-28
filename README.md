@@ -37,14 +37,26 @@ With much love and respect to Peercoin.
  Port | 6901
  RPC | 6902
  P2P Port | 29001 
- Speed up sync | [Official Bootstrap](https://github.com/stronghandsblockchain/Bootstraps)
- Qt Wallets | [Latest release](https://github.com/stronghandsblockchain/SHND-NewSource/releases/tag/v07301)
+ 
+ 
+ ### Downloads
+  
+  
+ <img align="left" width="18" height="18" src="https://github.com/stronghandsblockchain/Logos/blob/main/SHND/icon/SHND%20icon_32x32.png"> *GUI WAllets* | v07301&nbsp;
+ ------------ | -------------
+ Win64 | [Download](https://github.com/stronghandsblockchain/SHND-NewSource/releases/download/v07301/Windows64-stronghands-qt-v07301.zip)
+ MacOs | [Download](https://github.com/stronghandsblockchain/SHND-NewSource/releases/download/v07301/MacOS-Stronghands-Qt-v07301.dmg)
+ Ubuntu v16 | [Download](https://github.com/stronghandsblockchain/SHND-NewSource/releases/download/v07301/ubuntu16-stronghands-qt-v07301.zip)
+ Ubuntu v18 | [Download](https://github.com/stronghandsblockchain/SHND-NewSource/releases/download/v07301/ubuntu18-stronghandsd.zip)
+ Speed up sync | [Download Official Bootstrap](https://github.com/stronghandsblockchain/Bootstraps)
 
  
 Client and Source:
 * [Client Binaries](https://github.com/stronghandsblockhain/SHND-source/releases/tag/v07301),
 * [Latest Source Code](https://github.com/stronghandsblockhain/SHND-Newsource)
 * [Coin Explorer](https://www.coinexplorer.net/SHND)
+
+  
 
 Help and Assistance: 
 * [Discord](https://discord.gg/cPexkPB) 
