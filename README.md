@@ -7,6 +7,7 @@ StrongHands Coin (SHND) Official Development Repository
 ==================================
 ![](https://img.shields.io/badge/Coin-POW/POS-informational?style=for-the-badge&logo=F0B90B)
 ![](https://img.shields.io/badge/ALGO-SHA256D-informational?style=for-the-badge&logo=F0B90B)
+![](https://img.shields.io/github/languages/top/stronghandsblockchain/SHND-NewSource?style=for-the-badge)
 ![In Development](http://img.shields.io/static/v1?label=STATUS&message=UNDER%20REVISION&color=RED&style=for-the-badge)
 <img alt="Discord" src="https://img.shields.io/discord/396700779618107394?style=for-the-badge">
 ![Twitter](https://img.shields.io/twitter/follow/shndofficial?style=for-the-badge)
