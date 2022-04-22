@@ -1,3 +1,4 @@
+<div id="top"></div>
 <p align="center">
   <img width="200" height="200" src="https://github.com/stronghandsblockchain/Logos/blob/main/SHND/svg/SHND%20-%201.svg">
 
@@ -57,26 +58,30 @@ With much love and respect to Peercoin.
  Speed up sync | [Download Official Bootstrap](https://github.com/stronghandsblockchain/Bootstraps)
 
  
-Client and Source:
+### Client and Source:
 * [Client Binaries](https://github.com/stronghandsblockhain/SHND-source/releases/tag/v07301),
 * [Latest Source Code](https://github.com/stronghandsblockhain/SHND-Newsource)
 * [Coin Explorer](https://www.coinexplorer.net/SHND)
 
-  
 
-Help and Assistance: 
+### Help and Assistance: 
 * [Discord](https://discord.gg/cPexkPB) 
 * [Telegram](https://t.me/SHNDsupport)
 
-Visit and join the Communities:
+### Visit and join the Communities:
 * [Discord](https://discord.gg/gb8QWDx)
 * [Telegram](https://t.me/StrongHands) 
 * [Official Announcement Channel](https://t.me/stronghandsofficial)
 
-Where to compare prices and exchanges
+### Where to compare prices and charts
 * [Coinmarketcap](https://coinmarketcap.com/currencies/stronghands/)
 * [Coingecko](https://www.coingecko.com/en/coins/stronghands#markets) 
+  
+### Exchanges
+* Crex24: [SHND/BTC](https://crex24.com/exchange/SHND-BTC)
+* STEX: [SHND/LTC](https://app.stex.com/en/trading/pair/LTC/SHND)
+* Bitexlive: [SHND/USDT](https://bitexlive.com/exchange/USDT-SHND)
+* Graviex: [SHND/BTC](https://graviex.net/markets/shndbtc) | [SHND/USDT](https://graviex.net/markets/shndusdt)
 
-
-
+<p align="right">(<a href="#top">back to top</a>)</p>  
 
