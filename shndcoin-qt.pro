@@ -1,5 +1,5 @@
 TEMPLATE = app
-TARGET = stronghands-qt
+TARGET = Stronghands-Qt
 macx:TARGET = "Stronghands-Qt"
 VERSION = 0.7.3.01
 INCLUDEPATH += src src/json src/qt
