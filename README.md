@@ -78,10 +78,8 @@ With much love and respect to Peercoin.
 * [Coingecko](https://www.coingecko.com/en/coins/stronghands#markets) 
   
 ### Exchanges
-* Crex24: [SHND/BTC](https://crex24.com/exchange/SHND-BTC)
-* STEX: [SHND/LTC](https://app.stex.com/en/trading/pair/LTC/SHND)
-* Bitexlive: [SHND/USDT](https://bitexlive.com/exchange/USDT-SHND)
 * Graviex: [SHND/BTC](https://graviex.net/markets/shndbtc) | [SHND/USDT](https://graviex.net/markets/shndusdt)
+* TXBit: [SHND/USDT](https://txbit.io/Trade/SHND/USDT)
 
 <p align="right">(<a href="#top">back to top</a>)</p>  
 
