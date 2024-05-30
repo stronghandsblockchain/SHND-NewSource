@@ -78,8 +78,9 @@ With much love and respect to Peercoin.
 * [Coingecko](https://www.coingecko.com/en/coins/stronghands#markets) 
   
 ### Exchanges
-* Graviex: [SHND/BTC](https://graviex.net/markets/shndbtc) | [SHND/USDT](https://graviex.net/markets/shndusdt)
-* TXBit: [SHND/USDT](https://txbit.io/Trade/SHND/USDT)
-
-<p align="right">(<a href="#top">back to top</a>)</p>  
+* XT: [SHND/USDT](https://www.xt.com/en/trade/shnd_usdt)
+* XeggeX: [SHND/USDT](https://xeggex.com/market/SHND_USDT)) | [SHND/DOGE](https://xeggex.com/market/SHND_DOGE)
+* Vindax: [SHND/USDT](https://vindax.com/exchange-base.html?symbol=SHND_USDT)
+* BankCEX: [SHND/USDT](https://bankcex.com/exchange-advanced.html?symbol=SHND-USDT)
+  <p align="right">(<a href="#top">back to top</a>)</p>  
 
