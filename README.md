@@ -15,7 +15,7 @@ StrongHands Coin (SHND) Official Development Repository
 [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/stronghandsblockchain?style=for-the-badge)](https://www.reddit.com/r/stronghandsblockchain/)
 
 ## What is StrongHands?
-[StrongHands](https://stronghands.info) (abbreviated SHND) is a [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) openly forked  using [proof-of-stake consensus](https://peercoin.net/resources.html#whitepaper) as a security model, with a combined [proof-of-stake](https://peercoin.net/resources.html#whitepaper)/[proof-of-work](https://en.wikipedia.org/wiki/Proof-of-work_system) minting system. Stronghands is based on [Peercoin](https://peercoin.net) which  is based on [Bitcoin](https://bitcoin.org), while incorporating many important innovations to cryptocurrency field including new security model, energy efficiency, better minting model and more adaptive response to rapid change in network computation power.
+[StrongHands](https://stronghands.info) (abbreviated SHND) is a MEME [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) openly forked using [proof-of-stake consensus](https://peercoin.net/resources.html#whitepaper) as a security model, with a combined [proof-of-stake](https://peercoin.net/resources.html#whitepaper)/[proof-of-work](https://en.wikipedia.org/wiki/Proof-of-work_system) minting system. Stronghands is based on [Peercoin](https://peercoin.net) which  is based on [Bitcoin](https://bitcoin.org), while incorporating many important innovations to cryptocurrency field including new security model, energy efficiency, better minting model and more adaptive response to rapid change in network computation power.
 
 #### StrongHands (SHND) was originally [released in 2015](https://bitcointalk.org/index.php?topic=1195510.0), its initial POS return model of 100% /month resulted in incredible coin supply over time.
 
@@ -82,5 +82,8 @@ With much love and respect to Peercoin.
 * XeggeX: [SHND/USDT](https://xeggex.com/market/SHND_USDT)) | [SHND/DOGE](https://xeggex.com/market/SHND_DOGE)
 * Vindax: [SHND/USDT](https://vindax.com/exchange-base.html?symbol=SHND_USDT)
 * BankCEX: [SHND/USDT](https://bankcex.com/exchange-advanced.html?symbol=SHND-USDT)
+* FameEX: [SHND/DOGE](https://www.fameex.com/en-US/trade/shnd-doge)
+* MEXC
+* Bybit
   <p align="right">(<a href="#top">back to top</a>)</p>  
 
