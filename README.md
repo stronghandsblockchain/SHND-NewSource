@@ -83,7 +83,9 @@ With much love and respect to Peercoin.
 * Vindax: [SHND/USDT](https://vindax.com/exchange-base.html?symbol=SHND_USDT)
 * BankCEX: [SHND/USDT](https://bankcex.com/exchange-advanced.html?symbol=SHND-USDT)
 * FameEX: [SHND/DOGE](https://www.fameex.com/en-US/trade/shnd-doge)
-* MEXC
-* Bybit
+* Coinstore: [SHND/USDT](https://www.coinstore.com/spot/SHNDUSDT?ts=1718072749494)
+* NexDax: soon
+* MEXC: soon
+* Bybit: soon
   <p align="right">(<a href="#top">back to top</a>)</p>  
 
