@@ -89,6 +89,7 @@ With much love and respect to Peercoin.
 * Coinstore: [SHND/USDT](https://www.coinstore.com/spot/SHNDUSDT?ts=1718072749494)
 * 5Dax: [SHND/USDT](https://5dax.com/exchange-base.html?symbol=SHND_USDT)
 * NexDax: [SHND/USDT](https://nexdax.com/exchange-base.html?symbol=SHND_USDT)
+* Biconomy: [SHND/USDT](https://www.biconomy.com/exchange/SHND_USDT)
 * MEXC: soon
 * Bybit: soon
   <p align="right">(<a href="#top">back to top</a>)</p>  
